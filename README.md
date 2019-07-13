@@ -1,3 +1,3 @@
 # design-patterns
 
-added c++ template verion of observer pattern
+added c++ template version of observer pattern
